@@ -60,7 +60,13 @@ endmodule
 
 ## Output:
 ## RTL
-![image]()
+![image](https://github.com/SAKTHISWAR/Experiment--02-Implementation-of-combinational-logic-/blob/main/dee1.png)
+
+## TRUTH TABLE
+![image](https://github.com/SAKTHISWAR/Experiment--02-Implementation-of-combinational-logic-/blob/main/dee2.png)
+
+## WAVEFORM
+![image](https://github.com/SAKTHISWAR/Experiment--02-Implementation-of-combinational-logic-/blob/main/dee3.png)
 ## Timing Diagram
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
